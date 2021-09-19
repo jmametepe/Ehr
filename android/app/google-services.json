@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906115468524",
+    "project_id": "aeon-79764",
+    "storage_bucket": "aeon-79764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906115468524:android:4e2b8589a5ae95e146e9c9",
+        "android_client_info": {
+          "package_name": "com.tripple.aeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906115468524-56bs8og8tiemvdmlhk9kif6ojau53ckh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0zkNzNewsorjaClx9OsUGeHYfZ6_imB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906115468524-56bs8og8tiemvdmlhk9kif6ojau53ckh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
